@@ -9,7 +9,7 @@ Create a shortcut of the .bat file, name it ```Force Screenshot```.
 
 Go to C:\Users\//USERNAME//\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
 
-Paste your shortcut, edit icon with icon provided in source code.
+Paste your shortcut, edit icon with icon provided.
 
 Press the windows key, type Force Screenshot.
 
