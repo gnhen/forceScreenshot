@@ -1,7 +1,7 @@
 # forceScreenshot
 This is a program to take a screenshot of your screen. Works great for when the subject of the screenshot blurs itself with printscreen.
 
-Download both files and put them in a folder where you won't delete it.
+Download files and put them in a folder where you won't delete it.
 
 Open a terminal and run ```pip install mss keyboard```
 
